@@ -1,0 +1,23 @@
+Hello, world!
+message = Hello, world!
+message is of type <class 'str'>
+age = 25
+height = 1.75
+is_student = True
+fruits = ['apple', 'banana', 'cherry']
+apple
+banana
+fruits = ['apple', 'banana', 'cherry', 'orange']
+Fruits:
+apple
+banana
+cherry
+orange
+Person:
+Alice
+30
+True
+age = 25
+You are eligible to vote.
+12
+12
